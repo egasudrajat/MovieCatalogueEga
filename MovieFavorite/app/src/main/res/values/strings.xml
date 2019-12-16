@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Favorite</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="tglrilis">Tanggal Rilis</string>
+    <string name="detil_movie">Detil</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="durasi_film">Durasi</string>
+    <string name="overview">Intisari</string>
+    <string name="detail">Detil</string>
+    <string name="voting">Vote</string>
+    <string name="koneksiGagal">Koneksi Gagal</string>
+    <string name="success_delete">Berhasil di hapus</string>
+    <string name="tab1">Favorit Film</string>
+    <string name="tab2">Favorite Tayangan Tv</string>
+    <string name="bahasa">Bahasa</string>
+</resources>

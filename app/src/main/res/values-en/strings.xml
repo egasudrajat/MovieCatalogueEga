@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Movie Catalogue Ega</string>
+    <string name="nama_film">Film Name</string>
+    <string name="tglrilis">Release date</string>
+    <string name="detil_movie">Detail</string>
+    <string name="tanggal_rilis">Release date</string>
+    <string name="durasi_film">duration</string>
+    <string name="poster">Poster</string>
+    <string name="overview">Overview</string>
+
+    <string name="tab1">Movies</string>
+    <string name="tab2">Tv Show</string>
+    <string name="detail">Detail </string>
+    <string name="rilis">Release date</string>
+
+    <string name="language">en-US</string>
+    <string name="change_language_settings">Language Setting</string>
+    <string name="cobaLagi">Try Again</string>
+    <string name="koneksiGagal">No Connection !</string>
+    <string name="durasi">Language</string>
+    <string name="voting">Voting :</string>
+    <string name="tab3">"Search "</string>
+    <string name="addfavorite">Favorite</string>
+    <string name="hapus">Delete</string>
+    <string name="success_delete">Success deleted !</string>
+    <string name="success_insert">Saved at favorite list</string>
+    <string name="success_update">Success updated !</string>
+    <string name="cancel">Cancel</string>
+    <string name="film_movie_favorite">List favorite movie</string>
+    <string name="tv_movie_favorite">List favorite tv show</string>
+    <string name="menu_gallery">Favorite Movies</string>
+    <string name="menu_slideshow">Favorite Tv Show</string>
+    <string name="cari_film">Search Movie</string>
+    <string name="go_to_favorite">favorite</string>
+    <string name="key_lang">key_language</string>
+    <string name="daily_reminder">Daily reminder</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="key_today_reminder">key_today_reminder</string>
+    <string name="lang">Language</string>
+    <string name="lang_title">Language setting</string>
+    <string name="pref_title_notifications">Notification setting</string>
+    <string name="release_reminder">New movie reminder</string>
+    <string name="summary_daily_reminder">Daily reminder every 7:00 am</string>
+    <string name="summary_lang">Select language</string>
+    <string name="summary_release_reminder">New movie reminder every 8:00 am</string>
+    <string name="Setting">Setting</string>
+    <string name="toast_repeat_alarm">Repeating alarm set up</string>
+    <string name="daily_reminder_message">There are lots of new movies, let\'s see soon ...</string>
+    <string name="release_reminder_message">Come see new films today</string>
+    <string name="release_reminder_title">List a new movie today</string>
+    <string name="summary_text">More, see it...</string>
+    <string name="cancel_alarm">Daily notification is canceled</string>
+    <string name="empty">empty</string>
+</resources>
